@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ruben Silva
-- 🌱 I’m currently studying Computer Engineering
+- 👨‍🎓 I’m currently studying Computer Engineering
 - 📫 How to reach me rubenvpsilva@gmail.com
