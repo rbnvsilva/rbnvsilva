@@ -1,8 +1,8 @@
 ## Hi! I'm Ruben Silva, a Computer Engineering student at Universidade Lusofona
 <div style="display: inline_block">
-  <a href="https://github.com/ruben-22003218">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ruben-22003218&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <!--<img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruben-22003218&layout=compact&langs_count=7&theme=dark"/>-->
+  <a href="https://github.com/rbnvsilva">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rbnvsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!--<img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnvsilva&layout=compact&langs_count=7&theme=dark"/>-->
 </div>
   
 <div style="display: inline_block"><br>
