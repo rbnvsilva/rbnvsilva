@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **rubenvpsilva@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rbnvsilva&show_icons=true&theme=dracula&locale=en&layout=compact" alt="rbnvsilva" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rbnvsilva&show_icons=true&theme=dracula&locale=en" alt="rbnvsilva" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
