@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [VetOn](https://github.com/rbnvsilva/VetOn)
 
-- 📫 How to reach me **rubenvpsilva@gmail.com** | <a href="https://linkedin.com/in/rubenvpsilva" target="blank">LinkedIn</a>
+- 📫 How to reach me **rubenvpsilva@gmail.com** | <b><a href="https://linkedin.com/in/rubenvpsilva" target="blank">LinkedIn</a></b>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
