@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ruben Silva</h1>
-<h3 align="center">Backend Developer / Mobile Developer</h3>
+<h1 align="center">Hi, I'm Ruben Silva</h1>
+<h3 align="center">A Backend Developer / Mobile Developer</h3>
 
 - 🔭 I’m currently working on [StockIt](https://github.com/rbnvsilva/StockIt)
 
